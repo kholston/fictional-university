@@ -1,1 +1,10 @@
+app/public/wp-content/uploads
+app/public/wp-content/upgrade
 app/public/wp-config.php
+/wordpress/wp-content/backup-db/*.gz
+/.htaccess
+*.sql
+*.DS_Store
+*Thumbs.db
+*.sass-cache*
+*~imageoptim*
